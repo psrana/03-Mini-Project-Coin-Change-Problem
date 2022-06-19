@@ -1,1 +1,1 @@
-# 03-Mini-Project-Coin-Change-Problem
+# Coin Change Problem
